@@ -1,0 +1,21 @@
+# ============
+# NODE_MODULES
+# ============
+node_modules
+
+# ============
+# IDEA
+# ============
+.idea
+*.iml
+
+# ============
+# REPORTS
+# ============
+mocha-report.xml
+coverage
+
+# ============
+# LOGS
+# ============
+npm-debug.log
