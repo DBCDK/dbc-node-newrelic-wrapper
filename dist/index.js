@@ -20,6 +20,7 @@ exports.addPageAction = addPageAction;
 
 function addPageAction(name, attributes) {
   try {
-    newrelic.addPageAction(name, attributes);
-  } catch (e) {}
+    newrelic.addPageAction(name, attributes); // eslint-disable-line
+  } catch (e) {// eslint-disable-line
+  }
 }

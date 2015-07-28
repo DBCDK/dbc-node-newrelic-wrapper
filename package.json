@@ -2,7 +2,7 @@
   "name": "dbc-node-newrelic-wrapper",
   "version": "0.0.1",
   "description": "New Relic wrapper to handle logging while New Relic is not while available",
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "mocha --compilers js:babel/register src/__tests__",
     "test:watch": "mocha --compilers js:babel/register src/__tests__ -w",
