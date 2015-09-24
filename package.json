@@ -1,6 +1,6 @@
 {
   "name": "dbc-node-newrelic-wrapper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "New Relic wrapper to handle logging while New Relic is not while available",
   "main": "dist/index.js",
   "scripts": {
